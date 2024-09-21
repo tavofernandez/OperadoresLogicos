@@ -154,6 +154,7 @@ namespace OperadoresLogicos
             this.Controls.Add(this.label1);
             this.Name = "frmOperadoresLogicos";
             this.Text = "frmOperadoresLogicos";
+            this.Load += new System.EventHandler(this.frmOperadoresLogicos_Load);
             this.flowLayoutPanel1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();

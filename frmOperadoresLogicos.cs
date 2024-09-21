@@ -15,5 +15,13 @@ namespace OperadoresLogicos
         {
             InitializeComponent();
         }
+
+        int numero1, numero2;
+        bool resultado;
+
+        private void frmOperadoresLogicos_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
