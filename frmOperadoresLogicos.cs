@@ -26,7 +26,7 @@ namespace OperadoresLogicos
 
         private void btnY_Click(object sender, EventArgs e)
         {
-            
+            OperadorY();
         }
 
         private void Asignar()
