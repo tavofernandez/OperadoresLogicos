@@ -37,7 +37,7 @@ namespace OperadoresLogicos
 
         private void btnO_Click(object sender, EventArgs e)
         {
-
+            OperadorO();
         }
 
         private void OperadorO()
