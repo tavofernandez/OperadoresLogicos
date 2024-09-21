@@ -23,5 +23,11 @@ namespace OperadoresLogicos
         {
 
         }
+
+        private void Asignar()
+        {
+            numero1 = Convert.ToInt32(txtnumero1.Text);
+            numero2 = Convert.ToInt32(txtnumero2.Text);
+        }
     }
 }
