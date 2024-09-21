@@ -130,6 +130,7 @@ namespace OperadoresLogicos
             this.btnO.TabIndex = 1;
             this.btnO.Text = "O (||)";
             this.btnO.UseVisualStyleBackColor = true;
+            this.btnO.Click += new System.EventHandler(this.btnO_Click);
             // 
             // btnNo
             // 

@@ -35,6 +35,28 @@ namespace OperadoresLogicos
             numero2 = Convert.ToInt32(txtnumero2.Text);
         }
 
+        private void btnO_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void OperadorO()
+        {
+            Asignar();
+
+            //Debe cumplir una condicion para ser verdadero
+            if (numero1 > 5 || numero2 < 10 )
+            {
+                resultado = true;
+            }
+            else
+            {
+                resultado = false;
+            }
+
+            lblresultado.Text = resultado.ToString();
+        }
+
         private void OperadorY()
         {
             Asignar();
