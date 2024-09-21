@@ -1,0 +1,9 @@
+C:\Users\TAVO\source\repos\OperadoresLogicos\obj\Debug\OperadoresLogicos.csproj.AssemblyReference.cache
+C:\Users\TAVO\source\repos\OperadoresLogicos\obj\Debug\OperadoresLogicos.frmOperadoresLogicos.resources
+C:\Users\TAVO\source\repos\OperadoresLogicos\obj\Debug\OperadoresLogicos.Properties.Resources.resources
+C:\Users\TAVO\source\repos\OperadoresLogicos\obj\Debug\OperadoresLogicos.csproj.GenerateResource.cache
+C:\Users\TAVO\source\repos\OperadoresLogicos\obj\Debug\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\TAVO\source\repos\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe
+C:\Users\TAVO\source\repos\OperadoresLogicos\bin\Debug\OperadoresLogicos.pdb
+C:\Users\TAVO\source\repos\OperadoresLogicos\obj\Debug\OperadoresLogicos.exe
+C:\Users\TAVO\source\repos\OperadoresLogicos\obj\Debug\OperadoresLogicos.pdb
