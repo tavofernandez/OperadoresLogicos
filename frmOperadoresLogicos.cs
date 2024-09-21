@@ -24,10 +24,35 @@ namespace OperadoresLogicos
 
         }
 
+        private void btnY_Click(object sender, EventArgs e)
+        {
+            
+        }
+
         private void Asignar()
         {
             numero1 = Convert.ToInt32(txtnumero1.Text);
             numero2 = Convert.ToInt32(txtnumero2.Text);
         }
+
+        private void OperadorY()
+        {
+            Asignar();
+
+
+            if (numero1 > 5 && numero2 < 10)
+            {
+                resultado = true;
+            }
+            else
+            {
+                resultado = false;
+            }
+
+            lblresultado.Text = resultado.ToString();
+        }
+        
+
+
     }
 }

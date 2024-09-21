@@ -120,6 +120,7 @@ namespace OperadoresLogicos
             this.btnY.TabIndex = 0;
             this.btnY.Text = "Y (&&)";
             this.btnY.UseVisualStyleBackColor = true;
+            this.btnY.Click += new System.EventHandler(this.btnY_Click);
             // 
             // btnO
             // 
