@@ -140,6 +140,7 @@ namespace OperadoresLogicos
             this.btnNo.TabIndex = 2;
             this.btnNo.Text = "NO (!)";
             this.btnNo.UseVisualStyleBackColor = true;
+            this.btnNo.Click += new System.EventHandler(this.btnNo_Click);
             // 
             // frmOperadoresLogicos
             // 

@@ -57,6 +57,27 @@ namespace OperadoresLogicos
             lblresultado.Text = resultado.ToString();
         }
 
+        private void btnNo_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void OperadorNO()
+        {
+            Asignar();
+
+            if (!(numero1 > 5) && numero2 < 10)
+            {
+                resultado = true;
+            }
+            else
+            {
+                resultado = false;
+            }
+
+            lblresultado.Text = resultado.ToString();
+        }
+
         private void OperadorY()
         {
             Asignar();
