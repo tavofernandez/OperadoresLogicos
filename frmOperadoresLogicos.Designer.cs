@@ -114,7 +114,7 @@ namespace OperadoresLogicos
             this.txtnumero1.Location = new System.Drawing.Point(787, 201);
             this.txtnumero1.Name = "txtnumero1";
             this.txtnumero1.Size = new System.Drawing.Size(218, 35);
-            this.txtnumero1.TabIndex = 4;
+            this.txtnumero1.TabIndex = 0;
             this.txtnumero1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // txtnumero2
@@ -125,7 +125,7 @@ namespace OperadoresLogicos
             this.txtnumero2.Location = new System.Drawing.Point(787, 279);
             this.txtnumero2.Name = "txtnumero2";
             this.txtnumero2.Size = new System.Drawing.Size(218, 35);
-            this.txtnumero2.TabIndex = 4;
+            this.txtnumero2.TabIndex = 1;
             this.txtnumero2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // flowLayoutPanel1
