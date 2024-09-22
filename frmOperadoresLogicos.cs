@@ -59,7 +59,7 @@ namespace OperadoresLogicos
 
         private void btnNo_Click(object sender, EventArgs e)
         {
-
+            OperadorNO();
         }
 
         private void OperadorNO()
